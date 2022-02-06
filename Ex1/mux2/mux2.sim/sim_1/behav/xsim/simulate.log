@@ -1,0 +1,14 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Note: seleziono l'ingresso 0 e la rete 0
+Time: 40 ns  Iteration: 0  Process: /mux_161_tb/stim_proc  File: /home/giuseppe/Scrivania/mux2/mux2.srcs/sim_1/new/mux_161.vhd
+Note: seleziono l'ingresso 15
+Time: 60 ns  Iteration: 0  Process: /mux_161_tb/stim_proc  File: /home/giuseppe/Scrivania/mux2/mux2.srcs/sim_1/new/mux_161.vhd
+Note: seleziono l'ingresso 4 
+Time: 80 ns  Iteration: 0  Process: /mux_161_tb/stim_proc  File: /home/giuseppe/Scrivania/mux2/mux2.srcs/sim_1/new/mux_161.vhd
+Note: seleziono l'ingresso 9
+Time: 90 ns  Iteration: 0  Process: /mux_161_tb/stim_proc  File: /home/giuseppe/Scrivania/mux2/mux2.srcs/sim_1/new/mux_161.vhd
+Note: seleziono l'ingresso 7
+Time: 100 ns  Iteration: 0  Process: /mux_161_tb/stim_proc  File: /home/giuseppe/Scrivania/mux2/mux2.srcs/sim_1/new/mux_161.vhd
+Note: seleziono l'ingresso 10
+Time: 110 ns  Iteration: 0  Process: /mux_161_tb/stim_proc  File: /home/giuseppe/Scrivania/mux2/mux2.srcs/sim_1/new/mux_161.vhd
