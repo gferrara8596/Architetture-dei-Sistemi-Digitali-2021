@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/giuseppe/Scrivania/Riconoscitore/Riconoscitore.sim/sim_1/synth/func/xsim/riconoscitore_tb_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'riconoscitore'
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/giuseppe/Scrivania/Riconoscitore/Riconoscitore.srcs/sim_1/new/riconoscitore_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'riconoscitore_tb'

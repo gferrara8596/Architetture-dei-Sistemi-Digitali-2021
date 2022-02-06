@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"riconoscitore_tb_func_synth.vhd" \
+"../../../../../Riconoscitore.srcs/sim_1/new/riconoscitore_tb.vhd" \
+
+# Do not sort compile order
+nosort
