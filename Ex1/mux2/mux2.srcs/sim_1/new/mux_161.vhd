@@ -37,16 +37,16 @@ ARCHITECTURE Behavioral OF mux_161_tb IS
 
 	COMPONENT mux_16
 		PORT (
-			a : IN STD_LOGIC_VECTOR(0 TO 15);
-			c : IN STD_LOGIC_VECTOR(3 downto 0);
+			ing : IN STD_LOGIC_VECTOR(0 TO 15);
+			ch : IN STD_LOGIC_VECTOR(3 downto 0);
 			z : OUT STD_LOGIC
 		);
 	END COMPONENT;
 	
 	component demux_41
 	port(
-	a: out STD_LOGIC_VECTOR (0 to 3);
-	c: in std_LOGIC_vector (1 downto 0);
+	LED: out STD_LOGIC_VECTOR (0 to 3);
+	d: in std_LOGIC_vector (1 downto 0);
 	z: in std_logic
 	);
 	end component;

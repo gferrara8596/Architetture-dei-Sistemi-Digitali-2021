@@ -32,8 +32,8 @@ use IEEE.STD_LOGIC_1164.ALL;
 --use UNISIM.VComponents.all;
 
 entity demux_41 is
-    Port ( a : out STD_LOGIC_VECTOR (0 to 3);
-           c : in STD_LOGIC_VECTOR (1 downto 0);
+    Port ( LED : out STD_LOGIC_VECTOR (0 to 3);
+           d : in STD_LOGIC_VECTOR (1 downto 0);
            z : in STD_LOGIC);
 end demux_41;
 
@@ -41,9 +41,10 @@ architecture Behavioral of demux_41 is
 
 begin
 
-a(0) <= z when c = "00" else '0';
-a(1) <= z when c = "01" else '0';
-a(2) <= z when c = "10" else '0'; 
-a(3) <= z when c = "11" else '0'; 
+LED(0) <= z when d = "00" else '0';
+LED(1) <= z when d = "01" else '0';
+LED(2) <= z when d = "10" else '0'; 
+LED(3) <= z when d = "11" else '0'; 
+
 
 end Behavioral;

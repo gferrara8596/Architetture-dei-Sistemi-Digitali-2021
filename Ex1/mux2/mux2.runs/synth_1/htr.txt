@@ -6,4 +6,4 @@
 # Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
 #
 
-vivado -log mux_16.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source mux_16.tcl
+vivado -log rete.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source rete.tcl
