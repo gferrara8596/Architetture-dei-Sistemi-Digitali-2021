@@ -1,1 +1,3 @@
-Ho aggiunto il riconoscitore di stringa, dell'esercizio 2 manca la parte sulla board
+completo
+
+formato da due entità, il riconoscitore e il controllore del display. il main mette insieme le due entità.
